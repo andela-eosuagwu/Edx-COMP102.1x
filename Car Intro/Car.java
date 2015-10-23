@@ -22,8 +22,8 @@ public class Car
         odometer = odometer + Math.abs(dist);
     }
 
-   public void getOdometer ()
+   public int getOdometer ()
    {
-       IO.output(odometer);
+       return odometer;
    }
 }
