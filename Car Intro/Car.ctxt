@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Car()
+comment1.params=name
+comment1.target=void\ getName(java.lang.String)
+comment2.params=dist
+comment2.target=void\ moveCar(int)
+comment3.params=
+comment3.target=void\ getOdometer()
+numComments=4
